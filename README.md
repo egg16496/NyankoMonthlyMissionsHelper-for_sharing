@@ -12,3 +12,6 @@ Please let me know if you have any problems or inconveniences in using it.\
 \
 ## 다운 받기
 [클릭](https://github.com/egg16496/NyankoMonthlyMissionsHelper-for_sharing/blob/main/NyankoMonthlyMissionsHelper.apk?raw=true "다운로드")
+## ㅁㄴㅇㄹ
+현재 세계편 2장/3장만 사용 가능합니다.\
+추후 나머지도 추가 할테니 기다려주세요.(까먹고 안할 수도)
